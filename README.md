@@ -24,10 +24,10 @@
 ![Form Input](assets/image1.png)
 
 ### Halaman Tabel Absensi
-![Tabel Join](.../image2.png)
+![Tabel Join](assets/image2.png)
 
 ###  Kehadiran Harian dan Rekap Bulanan (Soal 3 dan 4)
-![Matrix](.../image34.png)
+![Matrix](assets/image34.png)
 
 
 
