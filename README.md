@@ -21,13 +21,13 @@
 ## 🖼️ Tampilan Halaman
 
 ### Halaman Input Absen
-![Form Input](assets/image1.png)
+![Form Input](assets/image1.jpg)
 
 ### Halaman Tabel Absensi
-![Tabel Join](assets/image2.png)
+![Tabel Join](assets/image2.jpg)
 
 ###  Kehadiran Harian dan Rekap Bulanan (Soal 3 dan 4)
-![Matrix](assets/image34.png)
+![Matrix](assets/image34.jpg)
 
 
 
